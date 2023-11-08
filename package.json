@@ -1,0 +1,17 @@
+{
+  "name": "socketchatapp",
+  "version": "0.0.1",
+  "description": "socket.io chat app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "nattapatwakhet",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
